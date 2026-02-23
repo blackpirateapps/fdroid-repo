@@ -1,0 +1,120 @@
+{
+  "METADATA_VERSION": 20002,
+  "allow_disabled_algorithms": false,
+  "app-debug.apk": {
+    "hash": "49a00f3ff1e9ff37844c8b88cb3a0387c3dcca3b1545a46af16ffb4c5f72c024",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "com.example.blankapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "com.example.blankapp",
+    "versionCode": 1,
+    "name": "Microblog",
+    "versionName": "1.0",
+    "minSdkVersion": 24,
+    "targetSdkVersion": 34,
+    "sig": "333f46cddff28a51d29a99f2b49baaa3",
+    "signer": "edd116bfbd1615f314896225c85f385ed94b54d7efef480967f4db7656b3c88d",
+    "size": 7934023,
+    "apkName": "app-debug.apk",
+    "added": 1771855796.465169
+  },
+  "book.apk": {
+    "hash": "e55452fb471f6e4bf42d3f19502d87b09d9f6b06665feaa700ab53bada5a9301",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "com.blackpiratex.book.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "com.blackpiratex.book",
+    "versionCode": 1,
+    "name": "BlackPirateX Book tracker",
+    "versionName": "0.1.0",
+    "minSdkVersion": 24,
+    "targetSdkVersion": 36,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86_64"
+    ],
+    "sig": "8932142fe7470dee84fccda57b49f071",
+    "signer": "2a8d5fb478ec41477a9c5badab30a42fe6d8d5c87e35732296874fb9bb62fa32",
+    "size": 51279720,
+    "apkName": "book.apk",
+    "added": 1771855796.836346
+  },
+  "rss-reader.apk": {
+    "hash": "977d850a6e4e4351faecd78648571d5d3bfb83531b7800dada923ccfd55e4732",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "com.example.rssreadercupertino.rss_reader_cupertino.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "com.example.rssreadercupertino.rss_reader_cupertino",
+    "versionCode": 1,
+    "name": "rss_reader_cupertino",
+    "versionName": "0.1.0",
+    "minSdkVersion": 24,
+    "targetSdkVersion": 36,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86_64"
+    ],
+    "sig": "4bc28da3a8cd1c18799ddb190d7778da",
+    "signer": "a09216dfd06fd3177e0b96f05aed65ecc7adcadfa501246ad7c29d7aade4f959",
+    "size": 52025678,
+    "apkName": "rss-reader.apk",
+    "added": 1771855797.214945
+  }
+}
