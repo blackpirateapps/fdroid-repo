@@ -273,6 +273,8 @@ keydname: CN=orion, OU=F-Droid
 # The list of mirrors can also be maintained in config/mirrors.yml, a
 # standalone YAML file in the optional configuration directory.  In
 # that case, mirrors: should be removed from this file (config.yml).
+mirrors:
+  - https://fdroid-repo.vercel.app/
 
 
 # optionally specify which identity file to use when using rsync or git over SSH
@@ -370,6 +372,7 @@ keydname: CN=orion, OU=F-Droid
 # to end in '/fdroid/repo'.)
 #
 # nonstandardwebroot: false
+nonstandardwebroot: true
 
 
 # If you want to upload the release APK file to androidobservatory.org
