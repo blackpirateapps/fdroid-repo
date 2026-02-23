@@ -1,0 +1,23 @@
+{
+  "commandLine": [
+    "/usr/bin/fdroid update"
+  ],
+  "fdroiddata": {
+    "commitId": null,
+    "isDirty": false,
+    "modifiedFiles": [],
+    "untrackedFiles": [
+      "config.yml",
+      "keystore.p12",
+      "repo/app-debug.apk",
+      "repo/book.apk",
+      "repo/rss-reader.apk"
+    ]
+  },
+  "stages": {
+    "delete_disabled_builds": 1771855186690,
+    "process_apks": 1771855186690
+  },
+  "startTimestamp": 1771835386000,
+  "subcommand": "update"
+}
