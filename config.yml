@@ -58,16 +58,9 @@ sdk_path: $ANDROID_HOME
 # feature.
 # repo_web_base_url: https://MyFirstFDroidRepo.org/packages/
 #
-# repo_name: My First F-Droid Repo Demo
-# repo_description: >-
-#   This is a repository of apps to be used with F-Droid. Applications
-#   in this repository are either official binaries built by the
-#   original application developers, or are binaries built from source
-#   by the admin of f-droid.org using the tools on
-#   https://gitlab.com/fdroid.
-
-# As above, but for the archive repo.
-#
+ #repo_name: BlackPirateX Apps
+#repo_description: >-
+#This is an fdroid repo for blackpirateapps
 # archive_url: https://f-droid.org/archive
 # archive_web_base_url:
 # archive_name: My First F-Droid Archive Demo
