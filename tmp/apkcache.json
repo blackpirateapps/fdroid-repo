@@ -275,5 +275,48 @@
     "size": 54239405,
     "apkName": "com.blackpiratex.book_3.apk",
     "added": 1771963110.191507
+  },
+  "com.blackpiratex.book_4.apk": {
+    "hash": "1cf31f09c990c7b56c52d6fcc612dd0e4869532c4cdd9174adcf4275badd5664",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "com.google.android.providers.gsf.permission.READ_GSERVICES",
+        null
+      ],
+      [
+        "com.blackpiratex.book.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "com.blackpiratex.book",
+    "versionCode": 4,
+    "name": "BlackPirateX Book tracker",
+    "versionName": "0.1.3",
+    "minSdkVersion": 24,
+    "targetSdkVersion": 36,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86_64"
+    ],
+    "sig": "8932142fe7470dee84fccda57b49f071",
+    "signer": "2a8d5fb478ec41477a9c5badab30a42fe6d8d5c87e35732296874fb9bb62fa32",
+    "size": 53928569,
+    "apkName": "com.blackpiratex.book_4.apk",
+    "added": 1771963806.279311
   }
 }
